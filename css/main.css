@@ -32,14 +32,21 @@ body {
 }
 
 .about-picture {
-  width: 30%;
-  height: 30%;
-  padding-right: 15px;
+  display: block;
+  max-width: 150px;
+  margin: 0 auto 30px;
+  border-radius: 100%;
 }
 
 .character {
   display:block;
   overflow:auto;  
+}
+
+.social-icon {
+  width: 20px;
+  height: 20px;
+  margin: 0 5px;
 }
 
 @media screen and (max-width: 25em) {

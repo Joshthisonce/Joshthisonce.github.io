@@ -49,13 +49,6 @@ body {
   margin: 0 5px;
 }
 
-.contact-info {
-  list-style: none;
-  padding: 0;
-  margin: 100px;
-  font-size: 0.9em;
-}
-
 .contact-info a {
   display: block;
   min-height: 20px;

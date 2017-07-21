@@ -4,7 +4,7 @@ body {
 }
 
 .navbar-default {
-  background-color: #21324f;
+  background-color: #000;
 }
 
 .navbar-default .navbar-nav>li>a {
@@ -27,7 +27,7 @@ body {
 }
 
 .footer {
-  background-color: #21324f;
+  background-color: #000;
   color: #fff;
 }
 

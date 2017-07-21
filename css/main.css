@@ -1,0 +1,47 @@
+body {
+  line-height:1.5;
+  font-family: 'Merriweather', Georgia, 'Times New Roman', Times, serif;
+}
+
+.navbar-default {
+  background-color: #21324f;
+}
+
+.navbar-default .navbar-nav>li>a {
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+  color: #a9a9a9;
+}
+
+.navbar-header {
+  text-align: center;
+}
+
+.navbar-toggle {
+  float: none;
+  margin-right: 0;
+}
+
+.footer {
+  background-color: #21324f;
+  color: #fff;
+}
+
+.about-picture {
+  width: 30%;
+  height: 30%;
+  padding-right: 15px;
+}
+
+.character {
+  display:block;
+  overflow:auto;  
+}
+
+@media screen and (max-width: 25em) {
+  body { font-size: 90%;}
+}

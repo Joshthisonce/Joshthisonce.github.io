@@ -6,6 +6,8 @@ CHARACTERS: A run down on a few of the main characters of the game.
 
 ABOUT: An about page talking about the author of the website.
 
+CONTACT: A non-working contact form *newly added* on 7/21/2017
+
 Overview of the technologies used to create the site.
 
 Bootstrap: Used to create the responsive grid layout.
